@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">👋 Hi, I'm Aditya Sharma 🚀 A passionate Full Stack Developer and Tech Enthusiast who loves turning ideas into reality through code. 💡 Always curious about new technologies, open-source contributions, and building impactful projects. 🎯 My focus areas include MERN Stack Development, Web Applications, and Scalable Backend Systems. ✨ Outside of coding, I enjoy learning about finance, problem-solving, and contributing to hackathons.</h3>
+<h3 align="center">👋 Hi, I'm Aditya Sharma <br>🚀 A passionate Full Stack Developer and Tech Enthusiast who loves turning ideas into reality through code. 💡 Always curious about new technologies, open-source contributions, and building impactful projects. 🎯 My focus areas include MERN Stack Development, Web Applications, and Scalable Backend Systems. ✨ Outside of coding, I enjoy learning about finance, problem-solving, and contributing to hackathons.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adtshrm007&label=Profile%20views&color=0e75b6&style=flat" alt="adtshrm007" /> </p>
 
