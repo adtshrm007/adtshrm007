@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:00d4ff,100:6f42c1&height=300&section=header&text=ADITYA%20SHARMA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=65&descSize=26&descColor=00d4ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0e75b6,70:00d4ff,100:6f42c1&height=320&section=header&text=ADITYA%20SHARMA&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=22&descColor=00d4ff&stroke=6f42c1&strokeWidth=2"/>
 </div>
 
 <div align="center">
@@ -262,17 +262,12 @@
 
 <div align="center">
 
-### 🔥 Real-Time Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=adtshrm007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adtshrm007&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" height="180"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adtshrm007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&line_height=27)
+<br/>
 
-### 📈 Streak Tracking
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adtshrm007&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=FF5733&currStreakNum=79c0ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
-
-### 💻 Language Distribution
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adtshrm007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=300)
+<img src="https://streak-stats.demolab.com?user=adtshrm007&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakNum=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9&stroke=0d1117" width="700"/>
 
 </div>
 
