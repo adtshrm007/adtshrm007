@@ -1,74 +1,30 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Systems Builder | Open Source Enthusiast</h3>
+<h3 align="center">👋 Hi, I'm Aditya Sharma 🚀 A passionate Full Stack Developer who enjoys building intelligent and scalable web applications. I love turning ideas into real-world products using modern technologies and clean architecture. 💡 I’m deeply interested in AI-integrated systems, real-time applications, and open source collaboration. I have built projects like Requesta (AI-powered platform) and UpSkillr (tech learning ecosystem). 🎯 My focus lies in MERN Stack Development, backend engineering, and creating impactful developer-first solutions. ✨ Beyond coding, I enjoy exploring finance, solving problems, and participating in hackathons.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adtshrm007&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adtshrm007&label=Profile%20views&color=0e75b6&style=flat" alt="adtshrm007" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adtshrm007" alt="adtshrm007" /></a> </p>
+
+- 🔭 I’m currently working on **UpSkillr**
+
+- 🌱 I’m currently learning **📚 I am currently learning advanced backend development, system design, and improving my open source contribution skills.**
+
+- 👯 I’m looking to collaborate on **UpSkillr**
+
+- 👨‍💻 All of my projects are available at [https://portolio007.vercel.app/](https://portolio007.vercel.app/)
+
+- 💬 Ask me about **💬 Ask me about MERN Stack, AI-integrated applications, real-time systems, and building scalable web platforms like Requesta and UpSkillr.**
+
+- 📫 How to reach me **adtshrm277@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-sharma-836856315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-sharma-836856315" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adtshrm277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adtshrm277" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adtshrm007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adtshrm007" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🧠 About Me
-
-* 🔭 Building **Requesta** — AI-powered decision intelligence system
-* 🌱 Exploring **Scalable Systems, Backend Engineering & Open Source**
-* 💡 Interested in **MERN Stack, AI Integrations & Real-Time Applications**
-* 🧑‍💻 Portfolio: [portolio007.vercel.app](https://portolio007.vercel.app/)
-* 📫 Email: **[adtshrm1@gmail.com](mailto:adtshrm1@gmail.com)**
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Requesta — AI Decision Intelligence Platform
-
-* ⚡ Full-stack system with **AI-powered backend (MongoDB pipelines + Gemini)**
-* 🎨 High-performance frontend using **React, Tailwind, GSAP**
-* 🔐 Implements **RBAC security, analytics dashboard, and workflow automation**
-
----
-
-### 🌐 UpSkillr — Tech Learning Ecosystem
-
-* 🤝 Peer-to-peer learning with **real-time collaboration (WebRTC + Socket.io)**
-* 💡 Skill-based mentorship and credit system
-* 📊 Designed for scalable learning communities
-
----
-
-### 🎨 VS Code Theme Extension
-
-* 🧑‍💻 Custom developer theme focused on **UX, readability & aesthetics**
-* 🎯 Built to enhance coding productivity and experience
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</p>
-
-### 🧰 Tools & Others
-
-<p>
-  <img src="https:/
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adtshrm007&show_icons=true&locale=en&layout=compact" alt="adtshrm007" /></p>
