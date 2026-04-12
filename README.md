@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=180&section=header&text=Aditya%20Sharma&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Aditya%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- ⌨️ Typing Animation -->
@@ -12,13 +12,21 @@
 
 ---
 
-## 🧠 About Me
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://img.shields.io/github/followers/adtshrm007?label=Followers&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/stars/adtshrm007?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=6f42c1"/>
+  <img src="https://img.shields.io/github/repo-size/adtshrm007/adtshrm007?style=for-the-badge&color=ff69b4"/>
+</p>
 
-- 🔭 Working on **UpSkillr** — real-time tech learning & collaboration platform  
-- 🌱 Exploring **System Design, Scalable Architectures & Open Source**  
-- 🤝 Open to collaborate on **AI apps, full stack systems & OSS**  
-- 🆘 Seeking help in **scalable backend & system design**  
-- 💬 Ask me about **MERN, AI-integrated apps & real-time systems**  
+---
+
+## 🧠 About Me
+- 🔭 Working on **UpSkillr** (real-time tech learning platform)  
+- 🌱 Learning **System Design & Scalable Architectures**  
+- 🤝 Open to collaborate on **AI + Full Stack + Open Source**  
+- 🆘 Seeking help in **backend scalability & system design**  
+- 💬 Ask me about **MERN, AI apps & real-time systems**  
 - ⚡ Fun fact: *Debugging feels like solving puzzles* 🧩  
 
 ---
@@ -26,18 +34,18 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Requesta — AI Decision Intelligence Platform
-- AI-powered backend (MongoDB pipelines + Gemini)  
-- React + Tailwind + GSAP frontend  
-- RBAC, analytics, intelligent workflows  
+- AI backend (MongoDB pipelines + Gemini)  
+- React + Tailwind + GSAP UI  
+- RBAC + analytics  
 
 ### 🌐 UpSkillr — Tech Learning Ecosystem
-- Real-time collaboration (WebRTC + Socket.io)  
-- Skill-based mentorship system  
-- Scalable learning architecture  
+- WebRTC + Socket.io real-time system  
+- Mentorship & skill economy  
+- Scalable architecture  
 
 ### 🎨 VS Code Theme Extension
-- Custom developer theme  
-- Focus on UX, readability & aesthetics  
+- Developer-focused UI theme  
+- Optimized readability & UX  
 
 ---
 
@@ -59,7 +67,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adtshrm007&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adtshrm007&theme=radical" />
@@ -74,6 +81,13 @@
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adtshrm007&theme=react-dark" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adtshrm007&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
