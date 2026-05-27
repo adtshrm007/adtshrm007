@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060014,30:0a0f3d,65:0e4d92,100:1565c0&height=300&section=header&text=ADITYA%20SHARMA&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=20&descColor=82b4ff&stroke=1565c0&strokeWidth=2"/>
+  <img width="1600" height="639" alt="WhatsApp Image 2026-05-27 at 23 40 00" src="https://github.com/user-attachments/assets/60b3bfc9-4da7-48b5-97d9-38890d0a1576" />
+
 </div>
 
 <div align="center">
