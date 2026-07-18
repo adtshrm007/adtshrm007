@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=600&color=4D9EFF&center=true&vCenter=true&width=860&height=70&lines=%F0%9F%9A%80+Building+Intelligent+Web+Systems;%F0%9F%92%8E+AI+Integration+%26+Real-time+Architecture;%F0%9F%94%AE+Crafting+Scalable+Solutions;%E2%9A%A1+Full+Stack+%2B+Cloud+Innovation;%F0%9F%8E%AF+Open+Source+%26+Community+First)](https://github.com/adtshrm007)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=600&color=4D9EFF&center=true&vCenter=true&width=860&height=70&lines=%F0%9F%9A%80+Building+Intelligent+Web+Systems;%F0%9F%94%AC+Static+Analysis+%26+Code+Intelligence;%F0%9F%92%8E+AI+Integration+%26+Real-time+Architecture;%F0%9F%94%AE+Crafting+Scalable+Solutions;%E2%9A%A1+Full+Stack+%2B+Cloud+Innovation;%F0%9F%8E%AF+Open+Source+%26+Community+First)](https://github.com/adtshrm007)
 
 </div>
 
@@ -17,7 +17,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1565c0,100:0d1117&height=3&section=header"/>
+</div>
 
 <br/>
 
@@ -32,13 +34,13 @@
 ║  const aditya: Developer = {             ║
 ║    role:     "Full Stack Architect",     ║
 ║    location: "🇮🇳 India",              ║
-║    focus:    "UpSkillr Platform",       ║
+║    focus:    "RepoLens Platform",       ║
 ║                                          ║
 ║    expertise: {                          ║
 ║      frontend:  ["React", "Next.js"],   ║
 ║      backend:   ["Node.js", "Express"], ║
 ║      ai:        ["Gemini", "LLMs"],     ║
-║      realtime:  ["Socket.io","WebRTC"], ║
+║      analysis:  ["AST", "Babel"],       ║
 ║    },                                    ║
 ║                                          ║
 ║    learning:  "System Design",          ║
@@ -53,12 +55,12 @@
 
 <br/>
 
-**🔭 Current** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building UpSkillr  
+**🔭 Current** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building RepoLens  
 **🎓 Learning** &nbsp;&nbsp;&nbsp;Scalable Architectures  
 **💼 Experience** &nbsp;2+ Years Production  
 **📈 Growth** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Continuous Learner  
 **🤝 Collaborate** Always Open  
-**💡 Passion** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI + Web Systems  
+**💡 Passion** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AI + Code Intelligence  
 **🎯 Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Leadership  
 **⚙️ Mindset** &nbsp;&nbsp;&nbsp;&nbsp;Systems Thinking  
 
@@ -78,7 +80,130 @@
 
 <br/>
 
-### 🧠 &nbsp;PROJECT 01 — **Requesta** &nbsp;`AI Decision Intelligence Platform`
+### 🔭 &nbsp;PROJECT 01 — **RepoLens V2** &nbsp;`Full-Stack Code Intelligence Platform`
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```
+╔══════════════════════════════════════════════════════╗
+║               ARCHITECTURE OVERVIEW                   ║
+╠══════════════════════════════════════════════════════╣
+║                                                       ║
+║  🔗  Dependency Graph Engine                         ║
+║  ├── Babel AST Parser       (Import Traversal)      ║
+║  └── ReactFlow DAG          (Interactive Graph)      ║
+║                                                       ║
+║  📊  Static Analysis Engine                          ║
+║  ├── Cognitive Complexity   (No AI Needed)          ║
+║  └── LOC / Nesting / Fn Size (Deterministic)        ║
+║                                                       ║
+║  🛡️  Security Scanner                                ║
+║  ├── Lexical Pass           (Regex Secrets Scan)    ║
+║  └── Structural Pass        (AST eval() Detection)  ║
+║                                                       ║
+║  🏆  Scoring Engine                                  ║
+║  ├── Maintainability (35%)  Security (35%)          ║
+║  └── Architecture (20%)     Docs (10%)              ║
+║                                                       ║
+║  🤖  AI Presentation Layer (OpenRouter)              ║
+║  ├── JSON Schema → LLM      (No Raw Code Sent)      ║
+║  └── ~98% Token Cost Reduction                       ║
+║                                                       ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</td>
+<td width="42%" valign="top">
+
+<br/>
+
+**Product Highlights**
+
+```yaml
+engines:
+  dependency: "Babel AST + ReactFlow"
+  static:     "Deterministic Metrics"
+  security:   "Lexical + Structural"
+  scoring:    "0-100 Health Score"
+
+intelligence:
+  engine:   "OpenRouter LLM"
+  input:    "Compressed JSON Only"
+  savings:  "~98% Token Cost"
+
+auth:
+  methods:  "JWT + GitHub + Google"
+  sessions: "httpOnly Cookies"
+
+features:
+  explorer:  "Line-by-line AI"
+  compare:   "Scan vs Scan"
+  palette:   "⌘K Universal Search"
+```
+
+</td>
+</tr>
+</table>
+
+**🌐 Live Demo:** [repo-lens-lovat.vercel.app](https://repo-lens-lovat.vercel.app/)
+
+**Tech Stack:**
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite_8-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Express](https://img.shields.io/badge/Express_5-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel_AST-1a1a00?style=flat-square&logo=babel&logoColor=F9DC3E)
+![Prisma](https://img.shields.io/badge/Prisma_6-0a1929?style=flat-square&logo=prisma&logoColor=2D3748)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1929?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Tailwind](https://img.shields.io/badge/Tailwind_4-0c2535?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![ReactFlow](https://img.shields.io/badge/ReactFlow-1a0a2e?style=flat-square&logo=react&logoColor=ff0072)
+![GSAP](https://img.shields.io/badge/GSAP-1a2a00?style=flat-square&logo=greensock&logoColor=88CE02)
+
+<details>
+<summary>🧬 &nbsp;<b>Expand: Request Lifecycle (Mermaid)</b></summary>
+
+```mermaid
+graph TD
+    subgraph Client ["React 19 + Vite (Vercel)"]
+        A[Dashboard & UI] --> B[ReactFlow Graph]
+        A --> C[Command Palette ⌘K]
+        A --> D[Code Explorer]
+    end
+
+    subgraph Server ["Express 5 (Render)"]
+        E[Auth Routes] --> F[JWT Middleware]
+        G[Analysis Pipeline] --> H[Babel AST Parser]
+        H --> I[Dependency Grapher]
+        H --> J[Static Analyzer]
+        H --> K[Security Scanner]
+        J --> L[Scoring Engine]
+        K --> L
+        G --> M[GitHub API via Octokit]
+    end
+
+    subgraph AI ["OpenRouter"]
+        N[LLM — JSON Schema → Summary]
+    end
+
+    subgraph DB ["PostgreSQL (Prisma)"]
+        O[(Users, Scans, Metrics, Findings, Graph, Health)]
+    end
+
+    Client -- "API Requests (JWT)" --> Server
+    Server -- "Write Results" --> DB
+    DB -- "Aggregated JSON Schema" --> N
+    N -- "Markdown Summary" --> Client
+```
+
+</details>
+
+---
+
+<br/>
+
+### 🧠 &nbsp;PROJECT 02 — **Requesta** &nbsp;`AI Decision Intelligence Platform`
 
 <table>
 <tr>
@@ -165,103 +290,6 @@ observability:
 
 <br/>
 
-### 🌐 &nbsp;PROJECT 02 — **UpSkillr** &nbsp;`Real-time Tech Learning Ecosystem`
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-```
-╔═════════════════════════════════════════════════════╗
-║          REAL-TIME LEARNING INFRASTRUCTURE           ║
-╠═════════════════════════════════════════════════════╣
-║                                                      ║
-║  👥  Real-time Collaboration Layer                  ║
-║  ├── WebRTC          (P2P Video/Audio Streaming)   ║
-║  ├── Socket.io       (Live Event Broadcasting)     ║
-║  ├── Op. Transform   (Live Sync)                   ║
-║  └── Redux Toolkit   (State Management)            ║
-║                                                      ║
-║  🎓  Learning Intelligence System                   ║
-║  ├── Adaptive Learning Paths                        ║
-║  ├── AI-Powered Recommendations                     ║
-║  ├── Progress Tracking & Analytics                  ║
-║  └── Skill Gap Analysis                             ║
-║                                                      ║
-║  💰  Skill Marketplace                              ║
-║  ├── Peer-to-Peer Transactions                      ║
-║  ├── Mentorship Matching Engine                     ║
-║  ├── Rating & Review System                         ║
-║  └── Commission Management                          ║
-║                                                      ║
-║  🚀  Infrastructure & Scalability                   ║
-║  ├── Horizontal Scaling   (Load Balancing)         ║
-║  ├── Database Sharding & Replication                ║
-║  ├── CDN Integration      (Global Distribution)    ║
-║  ├── Docker Containerization                        ║
-║  └── Kubernetes Orchestration                       ║
-║                                                      ║
-║  📡  Message Queue & Events                         ║
-║  ├── RabbitMQ             (Async Processing)       ║
-║  ├── Event-Driven Architecture                      ║
-║  └── Microservices Communication                    ║
-║                                                      ║
-╚═════════════════════════════════════════════════════╝
-```
-
-</td>
-<td width="42%" valign="top">
-
-<br/>
-
-**Product Highlights**
-
-```yaml
-collaboration:
-  video:    "WebRTC P2P"
-  chat:     "Socket.io Live"
-  sync:     "Op. Transform"
-
-intelligence:
-  paths:    "AI Adaptive"
-  gaps:     "Skill Analysis"
-  recs:     "Personalized"
-
-marketplace:
-  model:    "P2P Exchange"
-  matching: "AI-Powered"
-  payments: "Managed"
-
-infrastructure:
-  scaling:  "Horizontal"
-  db:       "Sharded + Replicated"
-  cdn:      "Global Edge"
-  runtime:  "K8s + Docker"
-
-messaging:
-  queue:    "RabbitMQ"
-  pattern:  "Event-Driven"
-  arch:     "Microservices"
-```
-
-</td>
-</tr>
-</table>
-
-**Tech Stack:**
-
-![MERN](https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![WebRTC](https://img.shields.io/badge/WebRTC-1a1a1a?style=flat-square&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0a1929?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0a1040?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1e0a00?style=flat-square&logo=rabbitmq&logoColor=FF6600)
-![Redux](https://img.shields.io/badge/Redux-1a0a2e?style=flat-square&logo=redux&logoColor=764ABC)
-
----
-
-<br/>
-
 ### 🎨 &nbsp;PROJECT 03 — **VS Code Theme Extension** &nbsp;`Developer Experience`
 
 <table>
@@ -343,12 +371,13 @@ customization:
 ![GraphQL](https://img.shields.io/badge/GraphQL-2a0020?style=for-the-badge&logo=graphql&logoColor=E10098)
 ![REST](https://img.shields.io/badge/REST_APIs-0a1929?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-1a1a1a?style=for-the-badge&logo=webrtc&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel_AST-1a1a00?style=for-the-badge&logo=babel&logoColor=F9DC3E)
 
 ### 🗄️ Data & Storage
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d2818?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1929?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Prisma](https://img.shields.io/badge/Prisma-0a1929?style=for-the-badge&logo=prisma&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-1e1200?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Redis](https://img.shields.io/badge/Redis-2a0a0a?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-001a2e?style=for-the-badge&logo=elasticsearch&logoColor=005571)
@@ -357,14 +386,15 @@ customization:
 
 ![Python](https://img.shields.io/badge/Python-0a1929?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-1a1a3e?style=for-the-badge&logo=google&logoColor=7c9fff)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0d0d1e?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e0a00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d1e?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🚀 Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-0a1929?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0a1040?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-1e1200?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/Git-1e0a00?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
@@ -414,6 +444,20 @@ customization:
 
 <br/>
 
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/adtshrm007/adtshrm007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%"/>
+
+<sub>⚙️ Powered by the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to keep this animation live.</sub>
+
+</div>
+
+---
+
+<br/>
+
 ## 🏆 &nbsp;Achievements & Recognition
 
 <div align="center">
@@ -438,8 +482,8 @@ customization:
 │  🎯  Full Stack Development                  │  95%  ⭐⭐⭐⭐⭐ │
 │  ████████████████████████████████████████░░  │              │
 │                                              │              │
-│  ⚡  Real-time Systems (WebRTC, Socket.io)   │  92%  ⭐⭐⭐⭐⭐ │
-│  ████████████████████████████████████░░░░░░  │              │
+│  🔬  Static Analysis & AST Tooling           │  91%  ⭐⭐⭐⭐⭐ │
+│  ███████████████████████████████████░░░░░░░  │              │
 │                                              │              │
 │  🎨  Frontend Design & UX                    │  90%  ⭐⭐⭐⭐⭐ │
 │  ██████████████████████████████████░░░░░░░░  │              │
@@ -456,7 +500,7 @@ customization:
 │  🧠  AI/ML Integration & LLMs               │  78%  ⭐⭐⭐⭐  │
 │  ███████████████████████████████░░░░░░░░░░░  │              │
 │                                              │              │
-│  🔐  Security & Authentication               │  75%  ⭐⭐⭐⭐  │
+│  🔐  Security & Authentication               │  76%  ⭐⭐⭐⭐  │
 │  ██████████████████████████████░░░░░░░░░░░░  │              │
 │                                              │              │
 ├──────────────────────────────────────────────┴──────────────┤
@@ -476,12 +520,12 @@ customization:
 <tr>
 <td width="33%" valign="top">
 
-### 🚀 UpSkillr
+### 🔭 RepoLens V2
 ```yaml
 focus:
-  - WebRTC integration
-  - AI recommendations
-  - Marketplace engine
+  - Multi-language AST support
+  - Deeper security passes
+  - Scan comparison UX
 
 status: "Active Dev 🟢"
 priority: HIGH
@@ -544,6 +588,7 @@ I'm passionate about:
 | Area | Focus |
 |------|-------|
 | ✨ **Building** | Next-generation web applications |
+| 🔬 **Analyzing** | Code health, security & architecture at scale |
 | 🤖 **Integrating** | AI into real-world solutions |
 | 🚀 **Scaling** | Systems that impact millions |
 | 📖 **Contributing** | Open-source communities |
@@ -566,7 +611,7 @@ I'm passionate about:
 |-------|--------|
 | Deep dives into system design | 🔜 Coming Soon |
 | AI integration best practices | 🔜 Coming Soon |
-| Real-time systems architecture | 🔜 Coming Soon |
+| Building deterministic code analysis engines | 🔜 Coming Soon |
 
 ### 🎓 Learning Resources
 
@@ -587,6 +632,9 @@ I'm passionate about:
 ║                                                        ║
 ║  🧩  Debugging == Puzzle Solving Superpower           ║
 ║      Every bug is just a feature in disguise          ║
+║                                                        ║
+║  🌳  I read ASTs the way some people read maps         ║
+║      Import graphs are my kind of scenery              ║
 ║                                                        ║
 ║  🎮  Gaming sharpens problem-solving skills           ║
 ║      Thinking differently outside of code             ║
